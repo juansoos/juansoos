@@ -1,5 +1,15 @@
-### Hi there 👋
+### <p align="center"> Hi there 👋, I'm Julian Sotelo </p>
 
+### <p align="center"> Multimedia Enginner | Software Engineer </p>
+
+Currently, I'm working on mobile app projects using Flutter (mainly) and React Native. However, I have also had experience in frontend development using NextJS and some Node.js as far as the backend is concerned. Presently, I'm focusing on learning the Golang and improving my TypeScript and Dart skills.
+
+#### Current Role
+Mobile software engineer | [La Haus](https://www.lahaus.com/)
+
+#### Previous experience
+- Mobile tech lead | [CVC Corp](https://www.cvc.com.br/) | April 2021 - July 2021
+- Mobile software engineer | [Almundo](https://almundo.com.ar/) | March 2018 - April 2021
 <!--
 **juansoos/juansoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
