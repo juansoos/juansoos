@@ -5,7 +5,7 @@
 Currently, I'm working on mobile app projects using Flutter and React Native. However, I have also had experience in frontend development using NextJS and some Node.js as far as the backend is concerned. Presently, I'm focusing on learning the Golang and improving my TypeScript and Dart skills.
 
 #### Current Role
-- Mobile developer | [Fanki](https://fanki.co/en)
+- Mobile software engineer | [Fanki](https://fanki.co)
 
 #### Previous experience
 - Mobile software engineer | [La Haus](https://www.lahaus.com/) | July 2021 - September 2023
